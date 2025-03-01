@@ -8,7 +8,7 @@ TOKEN = '8097822589:AAFoWYW8lffV4Ihj9CKwhuAGLp6WIfVTJfc'
 DB_CONFIG = {
     'dbname': 'Eng_Bot',
     'user': 'postgres',
-    'password': 'Fedia_38_2025',
+    'password': 'your_password',
     'host': 'localhost'
 }
 
