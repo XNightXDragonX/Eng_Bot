@@ -1,0 +1,4 @@
+telebot
+telebot.types
+psycopg2
+random
